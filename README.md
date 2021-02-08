@@ -1,2 +1,2 @@
 # responsive-grid-layout
-Responsive website using vanilla html and css.
+Responsive website vanilla html and css.
